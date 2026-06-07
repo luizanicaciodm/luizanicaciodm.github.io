@@ -21,22 +21,6 @@ Meu objetivo é criar produtos digitais que resolvam problemas reais, gerem valo
 
 ---
 
-## 🧩 Projetos em Destaque
-
-### Product Thinking Portfolio
-
-Portfólio focado em Product Management contendo:
-
-* Discovery
-* PRD
-* Roadmaps
-* User Story Mapping
-* Benchmarking
-* Product Metrics
-* Product Decisions
-
----
-
 ## 📈 Minha Jornada
 
 QA → Produto
