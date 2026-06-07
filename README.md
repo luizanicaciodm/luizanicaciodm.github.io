@@ -37,16 +37,6 @@ Portfólio focado em Product Management contendo:
 
 ---
 
-### Clarity
-
-Produto digital fictício criado do zero para demonstrar habilidades de Product Management.
-
-**Problema:** Profissionais acumulam cursos e certificados sem conseguir transformar aprendizado em crescimento profissional.
-
-**Solução:** Plataforma que conecta aprendizado, objetivos e evolução de carreira.
-
----
-
 ## 📈 Minha Jornada
 
 QA → Produto
