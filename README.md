@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Luiza Nicácio
 
-## QA Analyst | Product Management Enthusiast | Digital Products
+## Analista de QA | Produtos Digitais
 
-Atualmente atuo como Analista de QA e estou construindo minha transição para Product Management, unindo experiência em qualidade, visão de negócio, experiência do usuário e estratégia de produto.
+Atualmente atuo como Analista de QA e estou construindo minha transição para Gerenciamento de Produto, unindo experiência em qualidade, visão de negócio, experiência do usuário e estratégia de produto.
 
 Meu objetivo é criar produtos digitais que resolvam problemas reais, gerem valor para os usuários e contribuam para os resultados do negócio.
 
