@@ -48,4 +48,4 @@ LinkedIn: linkedin.com/in/luizanicacio
 
 GitHub: github.com/luizanicaciodm
 
-Email: [luizanicaciodm](mailto:luizanicaciodm@exemplo.com)
+Email: [luizanicaciodm@gmail.com](mailto:luizanicaciodm@gmail.com)
